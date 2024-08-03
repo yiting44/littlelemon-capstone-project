@@ -116,7 +116,9 @@ const ProjectsSection = () => {
         padding="80px 0px 0px 0px "
         className={"bigHeader aboutTitle"}
       >
-        Testimonials
+        <h2 className="bigHeader" style={{ color: "#000000" }}>
+          Testimonials
+        </h2>
       </Heading>
       <Box
         display="grid"

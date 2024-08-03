@@ -63,7 +63,9 @@ const ContactMeSection = () => {
     >
       <VStack w="1024px" p={32} alignItems="flex-start">
         <Heading as="h1" id="contactme-section">
-          Reservations
+          <h1 className="bigHeader" style={{ color: "#ffffff" }}>
+            Reservations
+          </h1>
         </Heading>
         <Box p={6} rounded="md" w="100%">
           {/* Connect the form onSubmit prop with Formik's handleSubmit function */}
