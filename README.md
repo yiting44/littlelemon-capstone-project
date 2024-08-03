@@ -1,3 +1,5 @@
+![image](https://github.com/yiting44/littlelemon-capstone-project/blob/main/src/assets/myproject.jpg)
+
 # Getting Started with Create React App new
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
